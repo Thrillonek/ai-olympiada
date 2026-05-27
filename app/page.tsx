@@ -531,7 +531,7 @@ function TabModel() {
 // ═══════════════════════════════════════════════════
 // MAIN APP
 // ═══════════════════════════════════════════════════
-export default function App() {
+export default function Page() {
 	const [tab, setTab] = useState('scenare');
 
 	const tabs = [
